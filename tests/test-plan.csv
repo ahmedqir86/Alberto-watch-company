@@ -1,0 +1,13 @@
+Test,Expected
+Category filters,Only matching products appear
+Product card click,Detail popup opens
+Popup close,Popup closes
+All product images,Load locally without internet
+Name less than 3 letters,Validation error
+Email invalid domain,Validation error
+Subject blank,Accepted
+Message less than 10 letters,Validation error
+Visitor counter,Increments on reload
+Ticker,Updates date and time
+Location,Requests geolocation permission
+Responsive layout,Works on mobile and desktop
